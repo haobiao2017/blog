@@ -2,16 +2,16 @@
 title: Java
 date: 2020-09-24 18:14:59
 author: 郝彪
-img: /source/medias/cover.jpg
+img: 
 top: true
 cover: true
-coverImg: /images/1.jpg
-password: 8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92
+coverImg: 
+password: 25852c87d6e47fb8d7d55400be9c7adbc87e6c18100a418d82cf676b70b4544a
 toc: false
 mathjax: false
-summary: 这是你自定义的文章摘要内容，如果这个属性有值，文章卡片摘要就显示这段文字，否则程序会自动截取文章的部分内容作为摘要
-categories: Markdown
+summary: Java 是由 Sun Microsystems 公司于 1995 年 5 月推出的高级程序设计语言。
+categories: Java
 tags:
-  - Typora
-  - Markdown
+  - Java
+  - 服务器
 ---
